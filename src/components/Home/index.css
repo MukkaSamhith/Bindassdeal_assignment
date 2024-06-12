@@ -1,0 +1,36 @@
+.home-page {
+  background-color: grey;
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px;
+}
+
+.items-details {
+  border-style: solid;
+  border-width: 2px;
+  padding: 8px;
+  width: 60%;
+  margin: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter-bar {
+  width: 50%;
+  height: 50%;
+}
+
+.insert-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}

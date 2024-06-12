@@ -1,0 +1,23 @@
+.signIn-page {
+  background-color: aquamarine;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  padding: 10px;
+  margin: 0px auto;
+}
+
+.register-button {
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  border-width: 1px;
+  width: 65px;
+  padding: 7px;
+}
+
+.invalid-data {
+  color: red;
+}

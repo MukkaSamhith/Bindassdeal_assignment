@@ -1,0 +1,30 @@
+.login-page {
+  background-color: aquamarine;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-value {
+  color: red;
+}
+
+.login-button {
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  border-width: 1px;
+  width: 55px;
+  padding: 7px;
+}
