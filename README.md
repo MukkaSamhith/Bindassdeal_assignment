@@ -14,3 +14,4 @@ Setup:
 
 Setup react js in your device and change the folder src and the file App.js
 Run the programme by using the command npm start.
+You haven't mentioned that the project should be responsive. So I did only for the destop devices.
